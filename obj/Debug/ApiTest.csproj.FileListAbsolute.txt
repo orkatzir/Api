@@ -1,0 +1,15 @@
+C:\Users\Shani\source\repos\ApiTest\ApiTest\bin\Debug\ApiTest.exe.config
+C:\Users\Shani\source\repos\ApiTest\ApiTest\bin\Debug\ApiTest.exe
+C:\Users\Shani\source\repos\ApiTest\ApiTest\bin\Debug\ApiTest.pdb
+C:\Users\Shani\source\repos\ApiTest\ApiTest\obj\Debug\ApiTest.csprojAssemblyReference.cache
+C:\Users\Shani\source\repos\ApiTest\ApiTest\obj\Debug\MainWindow.g.cs
+C:\Users\Shani\source\repos\ApiTest\ApiTest\obj\Debug\App.g.cs
+C:\Users\Shani\source\repos\ApiTest\ApiTest\obj\Debug\ApiTest_MarkupCompile.cache
+C:\Users\Shani\source\repos\ApiTest\ApiTest\obj\Debug\ApiTest_MarkupCompile.lref
+C:\Users\Shani\source\repos\ApiTest\ApiTest\obj\Debug\MainWindow.baml
+C:\Users\Shani\source\repos\ApiTest\ApiTest\obj\Debug\ApiTest.g.resources
+C:\Users\Shani\source\repos\ApiTest\ApiTest\obj\Debug\ApiTest.Properties.Resources.resources
+C:\Users\Shani\source\repos\ApiTest\ApiTest\obj\Debug\ApiTest.csproj.GenerateResource.cache
+C:\Users\Shani\source\repos\ApiTest\ApiTest\obj\Debug\ApiTest.csproj.CoreCompileInputs.cache
+C:\Users\Shani\source\repos\ApiTest\ApiTest\obj\Debug\ApiTest.exe
+C:\Users\Shani\source\repos\ApiTest\ApiTest\obj\Debug\ApiTest.pdb
